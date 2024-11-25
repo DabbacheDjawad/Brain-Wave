@@ -1,2 +1,3 @@
 Brain Wave Project from javascript mystery
-#Demo
+### DEMO
+[Demo] (https://dabbachedjawad.github.io/Brain-Wave/)
